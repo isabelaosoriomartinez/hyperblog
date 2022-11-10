@@ -1,8 +1,10 @@
-Esta es la historia de Isabela Osorio
+Esta es la historia de Isabela Osorio:
 
 Isabela Osorio tiene 24 años y nacio en Colombia,
-viviendo en todo el mundo
+viviendo en todo el mundo.
 
 Hoy hablaremos de su historia.
 
 En camara se ve normal, pero en persona se ve grandota. 
+
+Hoy es la Analista Jr de datos de TuCashTrack.
